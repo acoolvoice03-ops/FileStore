@@ -20,7 +20,7 @@ API_HASH = "25d88301e886b82826a525b7cf52e090"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://acoolvoice03_db_user:gDvzSlQvi0REvSWP@cluster0.t91uvkm.mongodb.net/?appName=Cluster0"
-DB_NAME = "acoolvoice03"
+DB_NAME = "TFCfilestorebot"
 
 FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)# just put channel id dont add ""
